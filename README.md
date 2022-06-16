@@ -1,2 +1,1 @@
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/DeLieMLmmer/DeLieMLmmer/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DeLieMLmmer&show_icons=true" />
